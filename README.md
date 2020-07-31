@@ -7,5 +7,3 @@ Hi, I'm Cosme. I'm a developer with a passion to create and learn new things. I 
 + Website: [cosmechavez.dev] (https://cosmechavez.dev)
 + Linkedin: [in/cosmechavez](https://linkedin.com/in/cosmechavez)
 + IG: [/cosmechz](https://instagram.com/cosmechz)
-
-## 
