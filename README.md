@@ -1,7 +1,2 @@
-| # Cosme Chavez |          |
-| ---            | ---      |
-|                | ## Dev   |
-| ---            | ---      |
-| ### But only   |          |
-| ---            | ---      |
-| #### sometimes |          |
+# Cosme Chavez
+
