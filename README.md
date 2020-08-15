@@ -4,6 +4,6 @@ Hi, I'm Cosme. I'm a developer with a passion to create and learn new things. I 
 
 ## Reach me out
 + Email: [mail@cosmechavez.dev](mailto:mail@cosmechavez.dev)
-+ Website: [cosmechavez.dev] (https://cosmechavez.dev)
++ Website: [cosmechavez.dev](https://cosmechavez.dev)
 + Linkedin: [in/cosmechavez](https://linkedin.com/in/cosmechavez)
 + IG: [/cosmechz](https://instagram.com/cosmechz)
